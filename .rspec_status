@@ -1,0 +1,9 @@
+example_id                   | status | run_time        |
+---------------------------- | ------ | --------------- |
+./spec/genx_spec.rb[1:1]     | passed | 0.00034 seconds |
+./spec/genx_spec.rb[1:2:1]   | passed | 0.00125 seconds |
+./spec/genx_spec.rb[1:2:2:1] | passed | 0.00154 seconds |
+./spec/genx_spec.rb[1:2:3]   | passed | 0.00064 seconds |
+./spec/genx_spec.rb[1:2:4:1] | passed | 0.00125 seconds |
+./spec/genx_spec.rb[1:2:5]   | passed | 0.00054 seconds |
+./spec/genx_spec.rb[1:2:6:1] | passed | 0.00106 seconds |
